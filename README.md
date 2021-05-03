@@ -1,3 +1,3 @@
 # PROJECT-105
 
-![](imag.png)
+![](img.png)
